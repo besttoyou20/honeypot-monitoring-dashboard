@@ -3,7 +3,7 @@
 ## Deskripsi Proyek
 Proyek ini mengimplementasikan sistem monitoring keamanan menggunakan SSH/Telnet Honeypot (**Cowrie**). Log serangan yang dihasilkan oleh Cowrie ditangkap secara *real-time* oleh **Promtail**, kemudian dikirim dan diindeks ke **Grafana Loki**, dan divisualisasikan menggunakan **Grafana Dashboard** untuk analisis aktivitas penyerang.
 
-## rsitektur Sistem
+## Arsitektur Sistem
 [Cowrie Logs] ──> [Promtail] ──> [Grafana Loki] ──> [Grafana Dashboard]
 
 ## Teknologi yang Digunakan
@@ -18,4 +18,4 @@ Proyek ini mengimplementasikan sistem monitoring keamanan menggunakan SSH/Telnet
 - `docs/`: Berisi dokumentasi visual sistem dan dashboard.
 
 ## Tampilan Dashboard
-![Dashboard Overview](docs/dashboard1.png)
+![Dashboard Overview](docs/dashboard/dashboard1.png)
