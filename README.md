@@ -18,4 +18,4 @@ Proyek ini mengimplementasikan sistem monitoring keamanan menggunakan SSH/Telnet
 - `docs/`: Berisi dokumentasi visual sistem dan dashboard.
 
 ## Tampilan Dashboard
-!(docs/dashboard/dashboard1.png)
+![Dashboard Overview](docs/dashboard/Dashboard1.png)
