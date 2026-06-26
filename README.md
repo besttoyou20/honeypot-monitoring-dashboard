@@ -6,7 +6,7 @@ Proyek ini mengimplementasikan sistem monitoring keamanan menggunakan SSH/Telnet
 ## rsitektur Sistem
 [Cowrie Logs] ──> [Promtail] ──> [Grafana Loki] ──> [Grafana Dashboard]
 
-## eknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Honeypot:** Cowrie
 - **Log Shipper:** Promtail
 - **Log Aggregator:** Grafana Loki
@@ -18,4 +18,4 @@ Proyek ini mengimplementasikan sistem monitoring keamanan menggunakan SSH/Telnet
 - `docs/`: Berisi dokumentasi visual sistem dan dashboard.
 
 ## Tampilan Dashboard
-![Dashboard Overview](docs/dashboard-overview.png)
+![Dashboard Overview](docs/dashboard1.png)
